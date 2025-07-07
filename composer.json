@@ -1,0 +1,57 @@
+{
+  "authors": [
+    {
+      "email": "rizalvindwiky1998@gmail.com",
+      "name": "Rizalvin Dwiky"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "RzlApp\\LaravelToaster\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "config": {
+    "allow-plugins": {
+      "pestphp/pest-plugin": true
+    },
+    "optimize-autoloader": true,
+    "sort-packages": true
+  },
+  "description": "A clean, powerful Laravel Toaster to generate session flash & props arrays — perfect for Blade, Vue, React, Inertia, Livewire, or plain APIs.",
+  "extra": {
+    "laravel": {
+      "providers": [
+        "RzlApp\\LaravelToaster\\Providers\\RzlLaravelToaster"
+      ]
+    }
+  },
+  "homepage": "https://github.com/rzl-app/laravel-toaster",
+  "keywords": [
+    "laravel",
+    "routes",
+    "toaster",
+    "laravel toaster",
+    "rzl-app",
+    "rzl app",
+    "rzl toaster",
+    "rzl laravel toaster"
+  ],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "name": "rzl-app/laravel-toaster",
+  "prefer-stable": true,
+  "require": {
+    "illuminate/support": "^9.0|^10.0|^11.0",
+    "laravel/framework": "^9.0|^10.0|^11.0",
+    "php": "^8.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.5"
+  },
+  "type": "library"
+}

@@ -1,0 +1,4 @@
+/vendor
+IGNORE_*
+*.lock
+**/*.lock
