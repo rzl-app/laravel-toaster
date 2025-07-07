@@ -46,9 +46,9 @@
   "name": "rzl-app/laravel-toaster",
   "prefer-stable": true,
   "require": {
-    "illuminate/support": "^9.0|^10.0|^11.0",
-    "laravel/framework": "^9.0|^10.0|^11.0",
-    "php": "^8.1"
+    "illuminate/support": "^9.0|^10.0|^11.0|^12.0",
+    "laravel/framework": "^9.0|^10.0|^11.0|^12.0",
+    "php": "^8.2"
   },
   "require-dev": {
     "phpunit/phpunit": "^10.5"

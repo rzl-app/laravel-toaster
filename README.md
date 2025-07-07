@@ -18,9 +18,9 @@
 [![Latest Version](https://img.shields.io/packagist/v/rzl-app/laravel-toaster?style=flat-rounded&color=green)](https://packagist.org/packages/rzl-app/laravel-toaster)
 [![Downloads](https://img.shields.io/packagist/dt/rzl-app/laravel-toaster?style=flat-rounded&color=blue)](https://packagist.org/packages/rzl-app/laravel-toaster)
 [![PHPStan](https://img.shields.io/badge/phpstan-level%208-brightgreen?style=flat-rounded)](https://phpstan.org)
-[![PHP](https://img.shields.io/badge/PHP-^8.1-blue?style=flat-rounded)](https://www.php.net)
-[![Laravel](https://img.shields.io/badge/Laravel-^9.x%20|%20^10.x%20|%20^11.x-red?style=flat-rounded)](https://laravel.com)
-[![Illuminate Support](https://img.shields.io/badge/illuminate%2Fsupport-^9.x%20|%20^10.x%20|%20^11.x-blue?style=flat-rounded)](https://packagist.org/packages/illuminate/support)
+[![PHP](https://img.shields.io/badge/PHP-^8.2-blue?style=flat-rounded)](https://www.php.net)
+[![Laravel](https://img.shields.io/badge/Laravel-^9.x%20|%20^10.x%20|%20^11.x%20|%20^12.x-red?style=flat-rounded)](https://laravel.com)
+[![Illuminate Support](https://img.shields.io/badge/illuminate%2Fsupport-^9.x%20|%20^10.x%20|%20^11.x%20|%20^12.x-blue?style=flat-rounded)](https://packagist.org/packages/illuminate/support)
 [![Coverage](https://img.shields.io/codecov/c/github/rzl-app/laravel-toaster?style=flat-rounded)](https://codecov.io/gh/rzl-app/laravel-toaster)
 
 ---
@@ -46,6 +46,7 @@
 
 | Laravel Framework & `illuminate/support` | PHP  | Package Version |
 | ---------------------------------------- | ---- | --------------- |
+| ^9.x \| ^10.x \| ^11.x \| ^12.x          | ^8.2 | v1.1.x          |
 | ^9.x \| ^10.x \| ^11.x                   | ^8.1 | v1.0.x          |
 
 ---
